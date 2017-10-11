@@ -1,7 +1,7 @@
 {
   "name": "simplereactapp",
   "version": "1.0.0",
-  "description": "practicisng react\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001breact exercise",
+  "description": "Project for React Training's fundamental course",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open"
@@ -32,7 +32,10 @@
     "webpack-dev-server": "^2.9.1"
   },
   "dependencies": {
+    "axios": "^0.16.2",
+    "prop-types": "^15.6.0",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2"
   }
 }
