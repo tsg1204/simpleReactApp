@@ -1,2 +1,2 @@
 # simpleReactApp
-https://simplereactapp-3c75c.firebaseapp.com/popular
+https://simplereactapp-3c75c.firebaseapp.com/
